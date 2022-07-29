@@ -1,4 +1,5 @@
 # vue-modal
+This is really just some sort of a test.
 
 ## Project setup
 ```
